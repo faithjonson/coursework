@@ -18,4 +18,3 @@
 - **CE 2051:** Mechanics of Materials & Laboratory
 - **CE 2070:** Computer Programming and Numerical Methods
 - **CE 2021:** Infrastructure Economics and Public Policy
-- 
